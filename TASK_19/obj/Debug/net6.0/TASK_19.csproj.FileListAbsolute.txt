@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\TASK_19.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\TASK_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\TASK_19.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\TASK_19.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\TASK_19.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\bin\Debug\net6.0\TASK_19.exe
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\bin\Debug\net6.0\TASK_19.deps.json
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\bin\Debug\net6.0\TASK_19.runtimeconfig.json
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\bin\Debug\net6.0\TASK_19.dll
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\bin\Debug\net6.0\TASK_19.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\TASK_19.dll
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\refint\TASK_19.dll
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\TASK_19.pdb
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\TASK_19.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Уроки C#\Homework_C#_003\TASK_19\obj\Debug\net6.0\ref\TASK_19.dll
